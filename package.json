@@ -17,8 +17,13 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "next": "^14.0.0",
     "next-sanity": "^9.8.31",
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+=======
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+>>>>>>> 8480dc0 (uplaod travel blog on github)
     "react-icons": "^5.4.0",
     "react-toastify": "^11.0.2",
     "styled-components": "^6.1.14"

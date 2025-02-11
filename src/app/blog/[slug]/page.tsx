@@ -1,4 +1,3 @@
-// app/[slug]/page.tsx
 import { client } from "../../../sanity/lib/client";
 import { PortableText } from "@portabletext/react";
 import { CommentSection } from "./CommentSection";

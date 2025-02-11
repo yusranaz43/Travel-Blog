@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div>Xontact Page</div>
+    <div>Contact Page</div>
   )
 }
 
